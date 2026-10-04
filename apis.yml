@@ -46,7 +46,7 @@ tags:
 - Company
 - Ai Ml
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Deep Learning
 - Inference
 - FPGA
@@ -62,6 +62,7 @@ tags_raw:
 - FPGA
 - Hardware Acceleration
 - Acquired
+- Machine-Learning
 apis: []
 x-status: acquired
 x-acquired-by: amd
