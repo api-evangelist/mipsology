@@ -44,7 +44,6 @@ created: '2026-07-17'
 modified: '2026-07-20'
 tags:
 - Company
-- Ai Ml
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
@@ -63,6 +62,7 @@ tags_raw:
 - Hardware Acceleration
 - Acquired
 - Machine-Learning
+- Ai Ml
 apis: []
 x-status: acquired
 x-acquired-by: amd
